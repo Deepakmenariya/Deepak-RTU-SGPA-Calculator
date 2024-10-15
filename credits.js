@@ -53,7 +53,7 @@ const credits = [
     "Social Outreach, Discipline & Extracurricular Activities": 0.5,
   },
   {
-    "Heay Transfer": 3,
+    "Heat Transfer": 3,
     "Mechatronic System": 2,
     "MANUFACTURING TECHNOLOGY": 3,
     "DESIGN OF MACHINE ELEMENTS – I": 3,
